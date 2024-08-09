@@ -1,16 +1,16 @@
-## Hi there 👋
+## BEM VINDOS(AS) AO MEU PERFIL💙
 
-<!--
-**Sahh-123/Sahh-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Samara Gonçalves
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos### Você pode entrar em contato comigo :mailbox
 
-Here are some ideas to get you started:
+### Você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+oooo1124399938@al.educacao.sp.gov.br
+
+@Sahh_Oli123
+
+![](https://media1.tenor.com/m/mToCVE3WAEcAAAAC/kiss-mwuah.gif)
+
+
